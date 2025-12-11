@@ -1,0 +1,21 @@
+{
+  "title": "IMPETUS4CHANGE Task 5.2 Blending information",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Mahmood, Rashed",
+      "affiliation": "Danish Meteorological Institute (DMI), Copenhagen, Denmark",
+      "orcid": "0000-0002-3583-2232"
+    },
+    {
+      "name": "Bilbao, Roberto",
+      "affiliation": "Barcelona Supercomputing Center (BSC), Barcelona, Spain",
+      "orcid": "0000-0003-0729-4980"
+    },
+    {
+      "name": "Fernandez, Jesus",
+      "affiliation": "Instituto de Física de Cantabria (IFCA), CSIC-Universidad de Cantabria, Santander, Spain",
+      "orcid": "0000-0002-3483-0008"
+    }
+  ]
+}
